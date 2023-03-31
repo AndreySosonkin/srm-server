@@ -1,0 +1,138 @@
+{
+  "Requests": [
+    {
+      "id": 1,
+      "name": "Балашов ",
+      "phone": "+7 (916) 555-77-5",
+      "email": "5555xvc@mail.ru",
+      "product": "course-html",
+      "date": "2023-03-27T15:39:51.811Z",
+      "status": "complete"
+    },
+    {
+      "id": 2,
+      "name": "Сидоров Иван",
+      "phone": "+7 (903) 555-77-44",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-wordpress",
+      "date": "2023-03-27T15:39:52.824Z",
+      "status": "complete"
+    },
+    {
+      "name": "Иванов Семен",
+      "phone": "+7 (916) 555-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-js",
+      "date": "2023-03-27T16:10:51.992Z",
+      "status": "complete",
+      "id": 9
+    },
+    {
+      "name": "Зарубин Михаил",
+      "phone": "+7 (903) 555-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-html",
+      "date": "2023-03-27T16:12:10.317Z",
+      "status": "new",
+      "id": 10,
+      "dateLocal": "27.03.2023",
+      "productName": "Курс по верстке",
+      "statusName": "Новый",
+      "badge": "badge-danger"
+    },
+    {
+      "name": "Петров Иван",
+      "phone": "+7 (910) 555-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-vue",
+      "date": "2023-03-27T16:25:47.641Z",
+      "status": "inwork",
+      "id": 11
+    },
+    {
+      "name": "Петров Семен",
+      "phone": "+7 (903) 505-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-php",
+      "date": "2023-03-27T16:25:53.602Z",
+      "status": "new",
+      "id": 14
+    },
+    {
+      "name": "Говоров Михаил",
+      "phone": "+7 (903) 505-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-php",
+      "date": "2023-03-30T10:02:41.359Z",
+      "status": "inwork",
+      "id": 19,
+      "dateLocal": "30.03.2023",
+      "productName": "Курс по PHP",
+      "statusName": "Новый",
+      "badge": "badge-danger"
+    },
+    {
+      "name": "Юрий",
+      "phone": "+7 (910) 555-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-vue",
+      "date": "2023-03-30T10:03:01.682Z",
+      "status": "new",
+      "id": 20
+    },
+    {
+      "name": "Сидоров Иван",
+      "phone": "+7 (903) 555-77-44",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-wordpress",
+      "date": "2023-03-31T09:43:50.310Z",
+      "status": "new",
+      "id": 21
+    },
+    {
+      "name": "Иванов Иван",
+      "phone": "+7 (903) 555-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-html",
+      "date": "2023-03-31T11:48:18.176Z",
+      "status": "new",
+      "id": 22
+    },
+    {
+      "name": "Петров Иван",
+      "phone": "+7 (910) 555-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-vue",
+      "date": "2023-03-31T11:48:18.676Z",
+      "status": "new",
+      "id": 23
+    },
+    {
+      "name": "Петров Иван",
+      "phone": "+7 (910) 555-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-vue",
+      "date": "2023-03-31T11:48:19.271Z",
+      "status": "new",
+      "id": 24
+    },
+    {
+      "name": "Иванов Иван",
+      "phone": "+7 (903) 555-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-html",
+      "date": "2023-03-31T11:48:19.885Z",
+      "status": "new",
+      "id": 25
+    },
+    {
+      "name": "Иванов Иван",
+      "phone": "+7 (903) 555-77-55",
+      "email": "xcvhxvc@mail.ru",
+      "product": "course-html",
+      "date": "2023-03-31T11:48:20.457Z",
+      "status": "new",
+      "id": 26
+    }
+  ]
+}
